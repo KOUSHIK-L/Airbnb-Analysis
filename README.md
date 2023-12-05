@@ -1,4 +1,5 @@
 # Airbnb Data Analysis Project
+_Project Domain - Travel Industry, Property Management and Tourism_
 
 ## Overview
 This project aimed to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
@@ -29,7 +30,7 @@ This project aimed to analyze Airbnb data using MongoDB Atlas, perform data clea
 - Utilized Tableau or Power BI to build a comprehensive dashboard, combining various visualizations to present key insights from the analysis.
 
 
-### Tools Used and Skills Gained
+### Tools Used 
 #### 1. Programming and data analysis
    - Python
    - Data Preprocessing
@@ -48,3 +49,4 @@ This project aimed to analyze Airbnb data using MongoDB Atlas, perform data clea
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Airbnb Analysis Power BI Dashboard Link
 https://drive.google.com/file/d/1MnZ4nvlsLfwgEQkzTE8pd8fiE4r9O2IJ/view?usp=sharing
+
