@@ -37,15 +37,14 @@ This project aimed to analyze Airbnb data using MongoDB Atlas, perform data clea
    - Exploratory Data Analysis
 
 #### 2. Database
-   - MongoDB
+   - MongoDB Atlas
 
 #### 3. Web Application
    - Streamlit
 
 #### 4. Visualization
    - PowerBI 
-   - Data Management using MongoDB and MySQL
-
+   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Airbnb Analysis Power BI Dashboard Link
 https://drive.google.com/file/d/1MnZ4nvlsLfwgEQkzTE8pd8fiE4r9O2IJ/view?usp=sharing
